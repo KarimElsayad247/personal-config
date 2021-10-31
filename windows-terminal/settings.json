@@ -57,6 +57,8 @@
         "list": 
         [
             {
+                "antialiasingMode": "grayscale",
+                "bellStyle": "none",
                 "colorScheme": "Dracula+",
                 "commandline": "powershell.exe",
                 "cursorShape": "underscore",
@@ -68,12 +70,14 @@
                 "startingDirectory": "D:\\code-folder"
             },
             {
+                "bellStyle": "none",
                 "commandline": "cmd.exe",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
                 "name": "Command Prompt"
             },
             {
+                "bellStyle": "none",
                 "colorScheme": "Ubuntu",
                 "cursorShape": "underscore",
                 "fontFace": "Inconsolata",
@@ -97,6 +101,7 @@
                 "source": "Windows.Terminal.Azure"
             },
             {
+                "bellStyle": "none",
                 "colorScheme": "Dracula",
                 "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
                 "cursorShape": "underscore",
