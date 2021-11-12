@@ -1,0 +1,65 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    // "terminal.integrated.cwd": "${fileDirname} ",
+    "C_Cpp.updateChannel": "Insiders",
+    "http.proxySupport": "off",
+    "editor.fontSize": 18,
+    "editor.formatOnPaste": false,
+    "editor.minimap.maxColumn": 90,
+    "editor.fontFamily": "'Comic ttttt Mono', Consolas, 'Courier New', monospace,'JetBrains Mono'",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "workbench.colorTheme": "Atom One Light",
+    "workbench.iconTheme": "material-icon-theme",
+    "python.languageServer": "Pylance",
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.onTaskErrors": "showErrors",
+    "terminal.external.windowsExec": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "php.validate.executablePath": "D:\\xampp\\php\\php.exe",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.minimap.enabled": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "editor.detectIndentation": false,
+    "intelephense.diagnostics.undefinedClassConstants": false,
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "intelephense.diagnostics.undefinedConstants": false,
+    "intelephense.diagnostics.undefinedProperties": false,
+    "intelephense.diagnostics.undefinedSymbols": false,
+    "intelephense.diagnostics.undefinedTypes": false,
+    "intelephense.diagnostics.undefinedVariables": false,
+    "intelephense.diagnostics.undefinedMethods": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe (migrated)": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "args": []
+        }
+    },
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontSize": 18,
+    "editor.cursorStyle": "underline",
+    "editor.cursorWidth": 3,
+    "security.workspace.trust.untrustedFiles": "open",
+    // "liveServer.settings.useWebExt": true
+    
+    // Ruby related
+    "ruby.lint": {
+        "rubocop": true,
+    },
+    "ruby.format": "rubocop",
+    "[ruby]": {
+        "editor.tabSize": 2,
+        "editor.defaultFormatter": "misogi.ruby-rubocop"
+    },
+    "workbench.sideBar.location": "right",
+}
